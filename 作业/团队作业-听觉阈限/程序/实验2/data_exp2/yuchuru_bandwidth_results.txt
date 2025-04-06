@@ -1,0 +1,18 @@
+Participant: yuchuru
+Bandwidth Parameter A Values Tested (Hz): [100, 300, 900]
+Total Main Trials per Condition: 32
+
+A Value (Hz): 100
+  Estimated Threshold (P_Tone / P_NormNoise Ratio): 0.728586
+  Estimated Slope: 8.356
+  Estimated Lapse Rate: 0.0237
+
+A Value (Hz): 300
+  Estimated Threshold (P_Tone / P_NormNoise Ratio): 0.583773
+  Estimated Slope: 5.810
+  Estimated Lapse Rate: 0.0310
+
+A Value (Hz): 900
+  Estimated Threshold (P_Tone / P_NormNoise Ratio): 0.132178
+  Estimated Slope: 10.088
+  Estimated Lapse Rate: 0.0203

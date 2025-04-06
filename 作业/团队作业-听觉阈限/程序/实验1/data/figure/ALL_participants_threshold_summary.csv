@@ -1,0 +1,7 @@
+participant_id,participant_idx,noise_level,threshold
+lzb,0,1.44,0.028391
+lzb,0,0.64,0.037853
+oysh,1,1.44,0.024678
+oysh,1,0.64,0.015252
+yuchuru,2,1.44,0.026924
+yuchuru,2,0.64,0.023182

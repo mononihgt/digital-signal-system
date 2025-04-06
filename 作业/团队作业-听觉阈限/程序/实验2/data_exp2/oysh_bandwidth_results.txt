@@ -1,0 +1,18 @@
+Participant: oysh_new
+Bandwidth Parameter A Values Tested (Hz): [100, 300, 900]
+Total Main Trials per Condition: 32
+
+A Value (Hz): 100
+  Estimated Threshold (P_Tone / P_NormNoise Ratio): 0.727322
+  Estimated Slope: 6.858
+  Estimated Lapse Rate: 0.0242
+
+A Value (Hz): 300
+  Estimated Threshold (P_Tone / P_NormNoise Ratio): 0.397184
+  Estimated Slope: 6.173
+  Estimated Lapse Rate: 0.0287
+
+A Value (Hz): 900
+  Estimated Threshold (P_Tone / P_NormNoise Ratio): 0.115236
+  Estimated Slope: 6.246
+  Estimated Lapse Rate: 0.0240

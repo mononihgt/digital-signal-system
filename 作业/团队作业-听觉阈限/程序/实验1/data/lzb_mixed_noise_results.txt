@@ -1,0 +1,13 @@
+Participant: lzb
+Noise Levels Tested: [1.44, 0.64]
+Total Main Trials per Condition: 32
+
+Noise Level: 1.44
+  Estimated Threshold (P/N Ratio): 0.028391
+  Estimated Slope: 9.928
+  Estimated Lapse Rate: 0.0200
+
+Noise Level: 0.64
+  Estimated Threshold (P/N Ratio): 0.037853
+  Estimated Slope: 4.262
+  Estimated Lapse Rate: 0.0243

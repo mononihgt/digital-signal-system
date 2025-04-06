@@ -1,0 +1,10 @@
+participant_id,participant_idx,A_value_Hz,threshold
+Participant 1,0,100.0,0.863284
+Participant 1,0,300.0,0.467641
+Participant 1,0,900.0,0.139152
+Participant 2,1,100.0,0.727322
+Participant 2,1,300.0,0.397184
+Participant 2,1,900.0,0.115236
+Participant 3,2,100.0,0.728586
+Participant 3,2,300.0,0.583773
+Participant 3,2,900.0,0.132178

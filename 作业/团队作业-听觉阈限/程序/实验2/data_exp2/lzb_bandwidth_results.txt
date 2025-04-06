@@ -1,0 +1,18 @@
+Participant: lzb
+Bandwidth Parameter A Values Tested (Hz): [100, 300, 900]
+Total Main Trials per Condition: 32
+
+A Value (Hz): 100
+  Estimated Threshold (P_Tone / P_NormNoise Ratio): 0.863284
+  Estimated Slope: 4.169
+  Estimated Lapse Rate: 0.0275
+
+A Value (Hz): 300
+  Estimated Threshold (P_Tone / P_NormNoise Ratio): 0.467641
+  Estimated Slope: 4.282
+  Estimated Lapse Rate: 0.0260
+
+A Value (Hz): 900
+  Estimated Threshold (P_Tone / P_NormNoise Ratio): 0.139152
+  Estimated Slope: 5.942
+  Estimated Lapse Rate: 0.0275
